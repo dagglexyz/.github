@@ -43,11 +43,11 @@ The client is built using React.js, Material components and other client-based S
   <h2>Demo Lilypad🍃</h2>
   <p>See how it work!</p>
 <video width="320" height="240" controls>
-  <source src="https://github.com/dagglexyz/.github/assets/53221136/f6693936-e68b-4754-83c2-2a5398d8a4ff" type="video/mp4">
+  <source src="https://github.com/dagglexyz/.github/assets/53221136/db8d7437-8172-4ebe-a5e9-022bdcb704d4" type="video/mp4">
 </video>
 <div>
 
-[check out the full video here.](https://github.com/dagglexyz/.github/assets/53221136/f6693936-e68b-4754-83c2-2a5398d8a4ff)
+[check out the full video here.](https://github.com/dagglexyz/.github/assets/53221136/db8d7437-8172-4ebe-a5e9-022bdcb704d4)
 
 <div align="center">
   <h2>Demo BacalhauJS🐟</h2>
