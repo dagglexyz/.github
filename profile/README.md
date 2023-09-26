@@ -46,9 +46,8 @@ The client is built using React.js, Material components and other client-based S
   <source src="https://github.com/dagglexyz/.github/assets/53221136/f6693936-e68b-4754-83c2-2a5398d8a4ff" type="video/mp4">
 </video>
 <div>
-[![Lilypad Demo](https://i.ibb.co/4JLkjfQ/Group-5.png)](https://www.youtube.com/watch?v=npW0lOFpaZQ)
 
-[check out the full video here.](https://www.youtube.com/watch?v=npW0lOFpaZQ&feature=youtu.be)
+[check out the full video here.](https://github.com/dagglexyz/.github/assets/53221136/f6693936-e68b-4754-83c2-2a5398d8a4ff)
 
 <div align="center">
   <h2>Demo BacalhauJS🐟</h2>
